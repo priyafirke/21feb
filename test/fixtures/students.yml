@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  name: 
+  stud_class: MyString
+  college: MyString
+  roll_no: 1
+  no_of_sub: 1
+
+two:
+  name: 
+  stud_class: MyString
+  college: MyString
+  roll_no: 1
+  no_of_sub: 1
